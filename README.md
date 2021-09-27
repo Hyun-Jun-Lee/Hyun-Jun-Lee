@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="400" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="500" />
 </div>  
   
 
@@ -47,4 +47,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
