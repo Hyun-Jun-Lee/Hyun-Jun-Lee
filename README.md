@@ -13,6 +13,8 @@
   
 
 - ✏️ My Tech Blog : https://hyun-jun-lee.github.io/about  
+
+- 💪 I'm Trying to `1 day 1 commit`
   
 
 <br/>  
