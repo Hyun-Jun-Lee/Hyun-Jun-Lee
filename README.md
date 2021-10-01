@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## <div align="center"> My Skill Set  </div>  
 
 
 <div align="center">  
