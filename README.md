@@ -4,8 +4,6 @@
 
 ### <div align="center">Hyun Jun Lee</div>  
   
-
-- 🌱 I’m currently learning Django and Docker, AWS, JS, React  
   
 
 - ❓ If you want to contact me, Send the E-mail : bhk0827@gmail.com  
