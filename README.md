@@ -23,7 +23,6 @@
 <div align="center">  
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> &nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp;
