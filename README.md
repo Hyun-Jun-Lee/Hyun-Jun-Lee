@@ -9,8 +9,6 @@
 - ❓ If you want to contact me, Send the E-mail : bhk0827@gmail.com  
   
 
-- ✏️ My Tech Blog : https://hyun-jun-lee.github.io/about    
-
 <br/>  
 
 
